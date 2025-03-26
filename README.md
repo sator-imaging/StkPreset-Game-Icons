@@ -26,4 +26,4 @@ https://github.com/sator-imaging/StkPreset-Game-Icons.git
 
 # 🚀 Try SVG Toolkit
 
-[![Go to Unity Asset Store](https://satorimaging.github.io/OpenManual/SvgToolkit/images/SvgToolkit_Hero.png)](https://assetstore.unity.com/packages/tools/gui/svg-toolkit-311201?aid=1011l89HG)
+[![Go to Unity Asset Store](https://satorimaging.github.io/OpenManual/SvgToolkit/images/SVGTK_UnityAS__FullHD_1080p.jpg)](https://assetstore.unity.com/packages/tools/gui/svg-toolkit-311201?aid=1011l89HG)
